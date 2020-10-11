@@ -33,3 +33,13 @@ serve -s dist
 ```
 vue add @ianaya89/tailwind
 ```
+
+### Command for add vue router:
+```
+npm i -S vue-router
+```
+
+### Command for add numeral
+```
+npm i -S numeral
+```
