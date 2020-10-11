@@ -28,3 +28,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 npm i -g serve
 serve -s dist
 ```
+
+### Command for add tailwind
+```
+vue add @ianaya89/tailwind
+```
