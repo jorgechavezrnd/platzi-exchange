@@ -43,3 +43,8 @@ npm i -S vue-router
 ```
 npm i -S numeral
 ```
+
+### Command for install vue-spinners and vue-chartkick
+```
+npm i -S @saeris/vue-spinners vue-chartkick
+```
